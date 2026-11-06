@@ -1,0 +1,4 @@
+# Only used to make `pytest` find the project. Nothing needs to be "installed".
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

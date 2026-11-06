@@ -1,0 +1,6 @@
+# Runtime dependencies for Build OS
+streamlit>=1.40
+pandas>=2.0
+networkx>=3.0
+plotly>=5.20        # first used in Stage 2 (Gantt chart)
+openpyxl>=3.1
